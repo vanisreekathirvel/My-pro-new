@@ -3,6 +3,10 @@
 INTEGRTION TOOLS
 
    MULTIFILES USING C PROGRAMMING
+  
+#DEFINING SYSTEM
+
+By this, we know who are all got credentials
    
 LEARNING RESOURCES
 

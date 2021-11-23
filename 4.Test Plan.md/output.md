@@ -4,8 +4,6 @@ person name: _ _ _ _ _
 
 if you get offer letter whether 'yes' or 'no'
 
-_ _ _ _
-
 you are _ _ _ _  // selected or not
 
 if you get ps number, email whether 'yes' or 'no'

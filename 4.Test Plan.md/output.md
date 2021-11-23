@@ -1,4 +1,4 @@
-## TEST PLAN ##
+## output ##
 
 person name: _ _ _ _ _
 
